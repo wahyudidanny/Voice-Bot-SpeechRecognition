@@ -1,0 +1,9 @@
+c:\users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\bin\Debug\Voice Bot.exe.config
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\bin\Debug\Voice Bot.exe
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\bin\Debug\Voice Bot.pdb
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csprojResolveAssemblyReference.cache
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\obj\Debug\Voice_Bot.Properties.Resources.resources
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csproj.GenerateResource.Cache
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\obj\Debug\Voice Bot.exe
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\obj\Debug\Voice Bot.pdb
+C:\Users\dannywahyudi\documents\visual studio 2015\Projects\Voice Bot\Voice Bot\obj\Debug\Voice_Bot.Form1.resources
